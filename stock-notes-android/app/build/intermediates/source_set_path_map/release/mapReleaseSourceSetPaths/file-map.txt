@@ -1,0 +1,7 @@
+com.stocknotes.app-pngs-0 /workspace/stock-notes-android/app/build/generated/res/pngs/release
+com.stocknotes.app-resValues-1 /workspace/stock-notes-android/app/build/generated/res/resValues/release
+com.stocknotes.app-mergeReleaseResources-2 /workspace/stock-notes-android/app/build/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.stocknotes.app-mergeReleaseResources-3 /workspace/stock-notes-android/app/build/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.stocknotes.app-release-4 /workspace/stock-notes-android/app/build/intermediates/merged_res/release/mergeReleaseResources
+com.stocknotes.app-main-5 /workspace/stock-notes-android/app/src/main/res
+com.stocknotes.app-release-6 /workspace/stock-notes-android/app/src/release/res

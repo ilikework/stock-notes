@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.stocknotes.app-mergeReleaseResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "/workspace/stock-notes-android/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,97,154",
+                        "endColumns": "41,56,36",
+                        "endOffsets": "92,149,186"
+                    }
+                },
+                {
+                    "source": "/workspace/stock-notes-android/app/src/main/res/values/themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "323"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "191",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "459"
+                    }
+                }
+            ]
+        }
+    ]
+}

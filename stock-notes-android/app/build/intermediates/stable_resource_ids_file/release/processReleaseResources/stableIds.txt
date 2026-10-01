@@ -1,0 +1,6 @@
+com.stocknotes.app:xml/network_security_config = 0x7f040000
+com.stocknotes.app:style/AppTheme = 0x7f030000
+com.stocknotes.app:string/retry = 0x7f020002
+com.stocknotes.app:string/load_failed = 0x7f020001
+com.stocknotes.app:string/app_name = 0x7f020000
+com.stocknotes.app:mipmap/ic_launcher = 0x7f010000

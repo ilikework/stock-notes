@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.stocknotes.app-release-4:/xml_network_security_config.xml.flat",
+        "source": "com.stocknotes.app-main-5:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.stocknotes.app-release-4:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.stocknotes.app-main-5:/mipmap-mdpi/ic_launcher.png"
+    }
+]

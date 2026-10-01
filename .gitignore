@@ -1,0 +1,10 @@
+.env
+.write-key
+.admin-password
+keystore.properties
+*.jks
+*.keystore
+.venv
+__pycache__
+node_modules
+.gradle

@@ -1,0 +1,10 @@
+name = "stock-report"
+main = "src/index.js"
+compatibility_date = "2026-09-30"
+account_id = "b167651b7d9af141bf2349d9f93e66c9"
+workers_dev = true
+
+[[d1_databases]]
+binding = "DB"
+database_name = "stock"
+database_id = "89daaff4-4b5f-4583-b740-f474f2706fc9"

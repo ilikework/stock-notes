@@ -1,0 +1,5 @@
+CREATE TABLE IF NOT EXISTS avatars (
+  user_id INTEGER PRIMARY KEY,
+  data TEXT NOT NULL,
+  updated_at TEXT NOT NULL
+);

@@ -1,0 +1,4 @@
+#Wed Sep 30 18:09:36 JST 2026
+base.0=/workspace/stock-notes-android/app/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
